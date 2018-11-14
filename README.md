@@ -1,2 +1,2 @@
 # calendar2.0
-iphone=ipod+phone+camera,calendar2.0=clock+calendar+note
+Jobs said iphone=ipod+phone+camera,we say calendar2.0=clock+calendar+note
